@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4c381e421ddab4489ba6f6cf1ad9199, type: 3}
+  m_Name: WeaponSettings
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 1599833908443240443, guid: f7457740837789743940c7d640599a96, type: 3}
+  bulletFireDelay: 0.15
+  laserPrefab: {fileID: 1372218833080038708, guid: f02a3d400cb6f7f4d9a635130005cda6, type: 3}
+  laserFireDelay: 1.5
